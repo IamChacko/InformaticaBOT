@@ -1,6 +1,6 @@
 var Discord = require('discord.js');
 
-var discordBotToken = 'MzkyMjIwNTg3OTk4ODM4Nzk1.DRkDcQ.R0oQeqSvoGByPXRX1WrLYR3vpeU';
+var discordBotToken = 'MzkyMjIwNTg3OTk4ODM4Nzk1.DRkxew.rCzsKpD2Y-DbrgXEulPlIWnYEgE';
 var prefix = '';
 
 //GameRole Bot
